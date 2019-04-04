@@ -12,7 +12,10 @@
     
     <ion-content>
       <ion-card class="welcome-card">
-        <ion-img src="/shapes.svg" />
+        <!-- 
+          NOTE! this tag does not output svg correctly
+          <ion-img src="@/assets/shapes.svg" /> -->
+        <img src="@/assets/shapes.svg" />
         <ion-card-header>
           <ion-card-subtitle>Get Started</ion-card-subtitle>
           <ion-card-title>Welcome to Ionic</ion-card-title>
