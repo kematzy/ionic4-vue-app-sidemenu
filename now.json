@@ -13,6 +13,9 @@
     { "src": "^/css/(.*)", "dest": "/css/$1" },
     { "src": "^/img/(.*)", "dest": "/img/$1" },
     { "src": "/favicon.ico", "dest": "/favicon.ico" },
+    { "src": "/manifest.json", "dest": "/manifest.json" },
+    { "src": "/precache-manifest.(.*)", "dest": "/precache-manifest.$1" },
+    { "src": "/service-worker.js", "headers": {"cache-control": "s-maxage=0"}, "dest": "/service-worker.js" },
     { "src": ".*", "headers": {"cache-control": "max-age=0,must-revalidate"}, "dest": "/index.html" }
   ]
 }
