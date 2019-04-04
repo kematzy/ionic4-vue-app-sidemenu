@@ -18,7 +18,7 @@
         <img src="@/assets/shapes.svg" />
         <ion-card-header>
           <ion-card-subtitle>Get Started</ion-card-subtitle>
-          <ion-card-title>Welcome to Ionic</ion-card-title>
+          <ion-card-title>Welcome to the Ionic 4 & Vue.js SideMenu app</ion-card-title>
         </ion-card-header>
         <ion-card-content>
           <p>This is a sample VueJS & Ionic 4 app created as an example of the default <code>$ ionic start ionic4-vue-app-sidemenu sidemenu</code> app with Angular.</p>
