@@ -49,7 +49,7 @@ export default {
         { icon: 'bluetooth', title: 'Item 9', note: 'This is item #9' },
         { icon: 'build', title: 'Item 10', note: 'This is item #10' },
         { icon: 'home', title: 'Item 11', note: 'This is item #11' },
-        { icon: 'building', title: 'Item 12', note: 'This is item #12' }
+        { icon: 'cog', title: 'Item 12', note: 'This is item #12' }
       ]
     }
   },
