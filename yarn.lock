@@ -676,10 +676,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@ionic/core@^4.0.0", "@ionic/core@^4.2.0":
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-4.2.0.tgz#9b71c4b22a6b58cfe1bd3b1e24142b462ed9b480"
-  integrity sha512-JGnx8NV9z3Bgg/Ds/uEe4PPwp/UWnxqU35koByWZcyDpdb1WTwF8b4iJA8QGoj2DWEyFx7qt3c/bw3Zk/F7JPw==
+"@ionic/core@^4.0.0", "@ionic/core@^4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-4.2.1.tgz#7468dfb5db0287365d06ea3e620c0ef205259b99"
+  integrity sha512-K5Uv5bjEA5k0r5n8gPJZF7ykdBreW9Jt4QCwt6ebVBfd5pmY8WACAJTQQWp6L027+y/Np25Tkvk8RpjAzMnhOg==
   dependencies:
     ionicons "4.5.5"
 
